@@ -13,4 +13,6 @@ This opens up a world of pain, as it allows the following:
 
 - Access to reports inside of TARGIT (the report name can be fuzzed)
 
-After dialogue with vendor it appears that this practice has been deprecated in the latest release. 
+- Credential Theft of service account by using tools like responder or ntlmrelayx.
+
+After dialogue with vendor it appears that this practice has been deprecated in the latest release.
